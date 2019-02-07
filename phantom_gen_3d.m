@@ -1,4 +1,4 @@
-%% 4D Hypercube target generation
+%% 3.5D Hypercube target generation
 % by Hyunggi Chang
 %
 % Steps:
